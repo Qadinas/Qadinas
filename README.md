@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/İشلەتكۈچى_ئاتيڭىز/İشلەتكۈچى_ئاتيڭىز/main/qadinas-banner.svg" alt="Qadinas GitHub Banner" width="100%" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/Qadinas/Qadinas/main/qadinas-banner.svg" alt="Qadinas GitHub Banner" width="100%" style="border-radius: 12px;" />
 </p>
 
 </div>
